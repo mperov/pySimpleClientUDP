@@ -18,7 +18,5 @@ print(MESSAGE)
 
 data = sock.recvfrom(1024)
 print("I got: " + str(data))
-#data = sock.recvfrom(1024)
-#print("I got: " + str(data))
 
 sock.close()

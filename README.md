@@ -1,4 +1,7 @@
-### pySimpleClientUDP allows to show how to connect to Xilinx board using Ethernet cable
+[![Contributors](https://img.shields.io/github/contributors/mperov/pySimpleClientUDP?label=Contributors)](https://github.com/mperov/pySimpleClientUDP/graphs/contributors)
+
+### pySimpleClientUDP
+It allows to show how to connect to Xilinx board using Ethernet cable
 
 There is example **lwip UDP Perf Server** in Xilinx SDK so this client works with Xilinx example.
 

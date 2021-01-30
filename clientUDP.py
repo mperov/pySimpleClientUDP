@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Copyright (c) 2021 Perov Maxim <coder@frtk.ru>
+# Copyright (c) 2021 Perov Maksim <coder@frtk.ru>
 #
 
 import socket
